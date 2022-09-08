@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "883975537777",
+    "project_id": "smartbuilding-cde03",
+    "storage_bucket": "smartbuilding-cde03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883975537777:android:e18509608c94699c3047d0",
+        "android_client_info": {
+          "package_name": "com.acstech.smartbuilding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883975537777-5vf2g12c6mcadcqu83hdm8j8lu9rkmi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1K8rcWG_ZZ8EWVDijIt0sviPbGXld5Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883975537777-5vf2g12c6mcadcqu83hdm8j8lu9rkmi4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883975537777-2c9nd894sdqnvinf9haf03860jaunnae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acstech.smartbuildingservice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

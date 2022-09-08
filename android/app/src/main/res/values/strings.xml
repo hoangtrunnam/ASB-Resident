@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ASB Resident</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">loMFIZZ77IeobduSBf72Z6EwUWvUVsnRS6_TP</string>
+</resources>

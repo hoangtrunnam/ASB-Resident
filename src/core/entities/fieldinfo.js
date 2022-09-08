@@ -1,0 +1,37 @@
+export class ModuleFieldInfo {
+    FieldID: string;
+    ModuleID: string;
+    SubModule: string;
+    ModuleType: string;
+    FieldName: string;
+    ParameterName: string;
+    FieldGroup: string;
+    FieldType: string;
+    ImportType: string;
+    ConditionType: string;
+    TextCase: string;
+    ControlType: string;
+    FieldFormat: string;
+    DefaultValue: any;
+    ListSource: string;
+    Callback: string;
+    TabStop: string;
+    ReadOnlyOnEdit: string;
+    ReadOnlyOnAdd: string;
+    ReadOnlyOnView: string;
+    FixedOnSearch: string;
+    GroupOnSearch: string;
+    TextAlign: string;
+    FixedWidth: number;
+    Nullable: string;
+    MaxLength: string;
+    CallbackMode: string;
+    FieldLabel: string;
+    SystemVisible: string;
+    Visible = 'Y';
+    RowIndex: number;
+    ColumnIndex: number;
+    IconName: string;
+    IsError: boolean = false;
+    TabIndex: number;
+}
